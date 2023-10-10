@@ -22,7 +22,7 @@ When you finish, we've found (a new API)[http://hp-api.herokuapp.com/api/charact
 3. Rework the getData function to take a url as a parameter and update all the components to use the new data function.
 4. The characters page should output at least 5 different characteristics in addition to their name.
 5. The characters page should limit characters to only those that share a common property (think Array.filter and `ancestry === 'half-blood'` or `eyeColour === 'green'`)
-
+#run 'npm install' before anything else
 
 ## Available Scripts
 
